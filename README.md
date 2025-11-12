@@ -2,6 +2,8 @@
 
 This project is a simple PHP CRUD (Create, Read, Update, Delete) application that allows users to manage records in a database using a procedural approach. The application is structured to provide a clear separation of concerns while maintaining simplicity.
 
+![alt text](https://i.ibb.co/fVQSK7Nw/sql.png)
+
 ## Project Structure
 
 ```
