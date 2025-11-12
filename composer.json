@@ -1,0 +1,21 @@
+{
+    "name": "php-crud-procedural",
+    "description": "A simple PHP CRUD application using procedural programming.",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "files": [
+            "includes/functions.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
